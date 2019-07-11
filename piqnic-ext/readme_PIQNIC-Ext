@@ -1,0 +1,29 @@
+This is a README file for the Index Extension of PIQNIC.
+
+We have added the following files:
+
+dk/aau/cs/qweb/piqnic/index/IIndex.java
+dk/aau/cs/qweb/piqnic/index/IndexMapping.java
+dk/aau/cs/qweb/piqnic/index/PiqnicIndexBase.java
+dk/aau/cs/qweb/piqnic/index/impl/LocationalIndex.java
+dk/aau/cs/qweb/piqnic/index/impl/SummaryGraph.java
+dk/aau/cs/qweb/piqnic/data/BaseFragmentBase.java
+dk/aau/cs/qweb/piqnic/data/impl/PredicateSpecificBaseFragment.java
+dk/aau/cs/qweb/piqnic/peer/IndexPeer.java
+dk/aau/cs/qweb/piqnic/util/Tuple.java
+dk/aau/cs/qweb/piqnic/jena/ext/*
+dk/aau/cs/qweb/piqnic/bloom/*
+
+We have modified the following files:
+
+dk/aau/cs/qweb/piqnic/PiqnicClient.java
+dk/aau/cs/qweb/piqnic/data/Dataset.java
+dk/aau/cs/qweb/piqnic/data/FragmentBase.java
+dk/aau/cs/qweb/piqnic/data/FragmentFactory.java
+dk/aau/cs/qweb/piqnic/data/MetaFragmentBase.java
+dk/aau/cs/qweb/piqnic/node/INode.java
+dk/aau/cs/qweb/piqnic/node/PiqnicNode.java
+dk/aau/cs/qweb/piqnic/node/NodeBase.java
+dk/aau/cs/qweb/piqnic/connection/PeerListener.java
+dk/aau/cs/qweb/piqnic/peer/IPeer.java
+dk/aau/cs/qweb/piqnic/peer/Peer.java
