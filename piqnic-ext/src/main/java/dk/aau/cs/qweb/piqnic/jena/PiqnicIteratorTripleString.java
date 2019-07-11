@@ -27,16 +27,6 @@ public class PiqnicIteratorTripleString implements IteratorTripleString {
         return triples.get(0);
     }*/
 
-    /*@Override
-    public boolean hasPrevious() {
-        return false;
-    }
-
-    @Override
-    public TripleString previous() {
-        return null;
-    }*/
-
     @Override
     public void goToStart() {
         index = 0;
